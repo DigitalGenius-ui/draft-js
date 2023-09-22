@@ -1,5 +1,3 @@
-this is my change
-
 <p align="center">
   <a href="http://draftjs.org/">
     <img src="https://draftjs.org/img/draftjs-logo.svg" alt="draftjs-logo" width="8%" />
